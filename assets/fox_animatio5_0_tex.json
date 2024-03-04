@@ -1,0 +1,145 @@
+{
+    "width": 2048,
+    "SubTexture": [
+        {
+            "width": 147,
+            "y": 150,
+            "height": 157,
+            "name": "fox2/ruka2_4",
+            "x": 880
+        },
+        {
+            "width": 132,
+            "y": 615,
+            "height": 171,
+            "name": "fox2/ruka2_3",
+            "x": 629
+        },
+        {
+            "width": 80,
+            "y": 454,
+            "height": 140,
+            "name": "fox2/ruka2_2",
+            "x": 917
+        },
+        {
+            "width": 80,
+            "y": 454,
+            "height": 140,
+            "name": "fox2/ruka2_1",
+            "x": 835
+        },
+        {
+            "width": 563,
+            "y": 1,
+            "height": 642,
+            "name": "fox2/tors",
+            "x": 1
+        },
+        {
+            "width": 121,
+            "y": 788,
+            "height": 184,
+            "name": "fox2/uho2",
+            "x": 629
+        },
+        {
+            "frameWidth": 161,
+            "y": 615,
+            "frameHeight": 84,
+            "width": 160,
+            "frameX": -1,
+            "height": 82,
+            "name": "fox2/glaza_bg",
+            "frameY": 0,
+            "x": 763
+        },
+        {
+            "width": 27,
+            "y": 150,
+            "height": 26,
+            "name": "fox2/glaz2",
+            "x": 1029
+        },
+        {
+            "width": 34,
+            "y": 615,
+            "height": 28,
+            "name": "fox2/glaz1",
+            "x": 566
+        },
+        {
+            "width": 312,
+            "y": 645,
+            "height": 324,
+            "name": "fox2/golova",
+            "x": 1
+        },
+        {
+            "width": 312,
+            "y": 645,
+            "height": 324,
+            "name": "fox2/golova2",
+            "x": 315
+        },
+        {
+            "width": 312,
+            "y": 1,
+            "height": 324,
+            "name": "fox2/golova3",
+            "x": 566
+        },
+        {
+            "width": 267,
+            "y": 548,
+            "height": 130,
+            "name": "fox2/rot1",
+            "x": 1158
+        },
+        {
+            "width": 267,
+            "y": 327,
+            "height": 125,
+            "name": "fox2/rot2",
+            "x": 834
+        },
+        {
+            "width": 266,
+            "y": 326,
+            "height": 154,
+            "name": "fox2/rot3",
+            "x": 1463
+        },
+        {
+            "width": 93,
+            "y": 788,
+            "height": 204,
+            "name": "fox2/uho1",
+            "x": 752
+        },
+        {
+            "width": 132,
+            "y": 1,
+            "height": 177,
+            "name": "fox2/ruka3",
+            "x": 1102
+        },
+        {
+            "width": 192,
+            "y": 180,
+            "height": 95,
+            "name": "fox2/ruka2",
+            "x": 1029
+        },
+        {
+            "width": 220,
+            "y": 1,
+            "height": 147,
+            "name": "fox2/ruka1",
+            "x": 880
+        }
+    ],
+    "height": 1024,
+    "name": "fox_animatio5_0",
+    "imagePath": "fox_animatio5_0_tex.png"
+}

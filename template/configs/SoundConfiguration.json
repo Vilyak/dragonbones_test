@@ -1,0 +1,23 @@
+[
+    { "name": "bgmusic", "path": "assets/sounds/bgmusic.mp3", "isMusic": true, "volume": 0.11 },
+    { "name": "buyGold", "path": "assets/sounds/buyGold.mp3", "isMusic": false, "volume": 0.25 },
+    { "name": "click", "path": "assets/sounds/click.mp3", "isMusic": false, "volume": 0.3 },
+    { "name": "collectCrystal", "path": "assets/sounds/collectCrystal.mp3", "isMusic": false, "volume": 0.25 },
+    { "name": "collectGold", "path": "assets/sounds/collectGold.mp3", "isMusic": false, "volume": 0.25 },
+    { "name": "hint", "path": "assets/sounds/hint.mp3", "isMusic": false, "volume": 0.25 },
+    { "name": "nextLevel", "path": "assets/sounds/nexLevel.mp3", "isMusic": false, "volume": 0.6 },
+    { "name": "popup", "path": "assets/sounds/popup.mp3", "isMusic": false, "volume": 0.25 },
+    { "name": "resolveWord", "path": "assets/sounds/resolveWord.mp3", "isMusic": false, "volume": 0.25 },
+    { "name": "rewardBoxOpen", "path": "assets/sounds/rewardBoxOpen.mp3", "isMusic": false, "volume": 0.25 },
+    { "name": "rewardQuest", "path": "assets/sounds/rewardQuest.mp3", "isMusic": false, "volume": 0.25 },
+    { "name": "safeOpen", "path": "assets/sounds/safeOpen.mp3", "isMusic": false, "volume": 0.15 },
+    { "name": "victory", "path": "assets/sounds/victory.mp3", "isMusic": false, "volume": 0.15 },
+    { "name": "letter1", "path": "assets/sounds/letter1.mp3", "isMusic": false, "volume": 0.5 },
+    { "name": "letter2", "path": "assets/sounds/letter2.mp3", "isMusic": false, "volume": 0.5 },
+    { "name": "letter3", "path": "assets/sounds/letter3.mp3", "isMusic": false, "volume": 0.5 },
+    { "name": "letter4", "path": "assets/sounds/letter4.mp3", "isMusic": false, "volume": 0.5 },
+    { "name": "letter5", "path": "assets/sounds/letter5.mp3", "isMusic": false, "volume": 0.5 },
+    { "name": "letter6", "path": "assets/sounds/letter6.mp3", "isMusic": false, "volume": 0.5 },
+    { "name": "letter7", "path": "assets/sounds/letter7.mp3", "isMusic": false, "volume": 0.5 },
+    { "name": "letter8", "path": "assets/sounds/letter8.mp3", "isMusic": false, "volume": 0.5 }
+]

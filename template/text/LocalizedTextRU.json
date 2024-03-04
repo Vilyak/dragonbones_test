@@ -1,0 +1,382 @@
+[
+    {
+        "key": "seasonText",
+        "value": "СЕЗОН"
+    },
+    {
+        "key": "welcomeText",
+        "value": "Добро пожаловать, \n $!"
+    },
+    {
+        "key": "welcomeTextWithoutNick",
+        "value": "Добро пожаловать\nв игру!"
+    },
+    {
+        "key": "playBtnText",
+        "value": "Играть"
+    },
+    {
+        "key": "correctWordText",
+        "value": "Так держать!|Молодец!|Мега мозг!"
+    },
+    {
+        "key": "isResolvedWordText",
+        "value": "Слово $\nуже отгадано!"
+    },
+    {
+        "key": "isNewFoundWordText",
+        "value": "Отличноe слово\n$,\nно оно не загадано!"
+    },
+    {
+        "key": "wrongWordText",
+        "value": "Интересное слово\n$,\nно оно не используется!"
+    },
+    {
+        "key": "settingsText",
+        "value": "Настройки"
+    },
+    {
+        "key": "additionalWordTitle",
+        "value": "Дополнительныо\nразгаданные слова"
+    },
+    {
+        "key": "settingsAutorizationText",
+        "value": "Войти"
+    },
+    {
+        "key": "settingsLanguageText",
+        "value": "Информация"
+    },
+    {
+        "key": "sendToFriendsText",
+        "value": "Рассказать\nдрузьям"
+    },
+    {
+        "key": "buttonNextText",
+        "value": "Дальше"
+    },
+    {
+        "key": "buttonMultiplyRewardText",
+        "value": "+20%"
+    },
+    {
+        "key": "quests",
+        "value": "Задачи"
+    },
+    {
+        "key": "baseDescriptionQuest",
+        "value": "Текст квеста\nдля награды"
+    },
+    {
+        "key": "helpForFriendText",
+        "value": "Помоги\nдругу"
+    },
+    {
+        "key": "spendGoldText",
+        "value": "Потрать\nмонеты"
+    },
+    {
+        "key": "winLevelQuestText",
+        "value": "Выиграй\nуровень"
+    },
+    {
+        "key": "useTipQuestText",
+        "value": "Используй\nподсказки"
+    },
+    {
+        "key": "resolveAdditionalWord",
+        "value": "Отгадай\nновое\nслово"
+    },
+    {
+        "key": "winInTournamentText",
+        "value": "Победи в\nтурнире"
+    },
+    {
+        "key": "collectCrystalsText",
+        "value": "Собери\nкристаллы"
+    },
+    {
+        "key": "passLevelText",
+        "value": "Пройди $\nуровней"
+    },
+    {
+        "key": "collectGoldText",
+        "value": "Собери\nмонеты"
+    },
+    {
+        "key": "passSeasonText",
+        "value": "Пройди\nсезон"
+    },
+    {
+        "key": "passLevelWitoutHintText",
+        "value": "Пройди\nуровень\nбез подсказки"
+    },
+    {
+        "key": "helpFromFriendsText",
+        "value": "Попроси\nпомощи\nу друга"
+    },
+    {
+        "key": "refreshText",
+        "value": "Обновление через"
+    },
+    {
+        "key": "selectRewardBoxText",
+        "value": "Выбери один сундук"
+    },
+    {
+        "key": "daylyRewardTitleText",
+        "value": "Ежедневная\nнаграда"
+    },
+    {
+        "key": "leagueText",
+        "value": "Лига"
+    },
+    {
+        "key": "multiplyCoinsText",
+        "value": "Умножь\nполученные монеты"
+    },
+    {
+        "key": "safeBonusText",
+        "value": "Бонус"
+    },
+    {
+        "key": "timerLeftText",
+        "value": "Осталось"
+    },
+    {
+        "key": "letters",
+        "value": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"
+    },
+    {
+        "key": "safeText",
+        "value": "Сейф"
+    },
+    {
+        "key": "shopTitleText",
+        "value": "Магазин"
+    },
+    {
+        "key": "supportResponseText",
+        "value": "Пришла\nпомощь от"
+    },
+    {
+        "key": "supportRequestText",
+        "value": "Просит у Вас помощи"
+    },
+    {
+        "key": "sendButtonText",
+        "value": "Отправить"
+    },
+    {
+        "key": "getButtonText",
+        "value": "Получить"
+    },
+    {
+        "key": "missingMessagesText",
+        "value": "У вас нет уведомлений\nот друзей"
+    },
+    {
+        "key": "helpingTitleText",
+        "value": "Застрял?"
+    },
+    {
+        "key": "helpingPopupText",
+        "value": "Попросить помощи у ваших друзей"
+    },
+    {
+        "key": "winPostText",
+        "value": "Ур-а-а-а-а! Я выиграл $ уровень в $ сезоне. Присоединяйся ко мне, вместе будет веселее."
+    },
+    {
+        "key": "yes",
+        "value": "Да"
+    },
+    {
+        "key": "buy",
+        "value": "купить\n"
+    },
+    {
+        "key": "nextThrough",
+        "value": "Следующий через"
+    },
+    {
+        "key": "yourBonus",
+        "value": "Ваш бонус"
+    },
+    {
+        "key": "apply",
+        "value": "Принять"
+    },
+    {
+        "key": "startOfferText",
+        "value": "Стартовый\nнабор"
+    },
+    {
+        "key": "packetDescription1",
+        "value": "Пакет 1"
+    },
+    {
+        "key": "packetDescription2",
+        "value": "Пакет 2"
+    },
+    {
+        "key": "packetDescription3",
+        "value": "Пакет 3"
+    },
+    {
+        "key": "packetDescription4",
+        "value": "Пакет 4"
+    },
+    {
+        "key": "defaultCyrrencySymbol",
+        "value": "$"
+    },
+    {
+        "key": "okCyrrencySymbol",
+        "value": "ОК"
+    },
+    {
+        "key": "gfCyrrencySymbol",
+        "value": "GF"
+    },
+    {
+        "key": "yaCyrrencySymbol",
+        "value": "RUR"
+    },
+    {
+        "key": "freindsRequestButton",
+        "value": "Пригласить\nдруга"
+    },
+    {
+        "key": "additionalTitle",
+        "value": "Дополнительные слова"
+    },
+    {
+        "key": "isAskedHelptext",
+        "value": "Запрос отправлен"
+    },
+    {
+        "key": "understandably",
+        "value": "Понятно"
+    },
+    {
+        "key": "throughLevels",
+        "value": "Проходи\nуровни"
+    },
+    {
+        "key": "guessWords",
+        "value": "Отгадывай\nслова"
+    },
+    {
+        "key": "collectCoins",
+        "value": "Собирай\nмонеты"
+    },
+    {
+        "key": "infoText",
+        "value": "Описание"
+    },
+    {
+        "key": "endGame",
+        "value": "Поздравляем!\nВы прошли последний уровень!\nСкоро появятся новые уровни"
+    },
+    {
+        "key": "packetName1",
+        "value": "100 монет"
+    },
+    {
+        "key": "packetName2",
+        "value": "300 монет"
+    },
+    {
+        "key": "packetName3",
+        "value": "800 монет"
+    },
+    {
+        "key": "packetName4",
+        "value": "2000 монет"
+    },
+    {
+        "key": "packetNameOffer",
+        "value": "800 монет"
+    },
+    {
+        "key": "packetNameSafe",
+        "value": "открыть сейф"
+    },
+    {
+        "key": "packetDescriptionOffer",
+        "value": "cтартовый набор"
+    },
+    {
+        "key": "packetDescriptionSafe",
+        "value": "сейф с монетами"
+    },
+    {
+        "key": "noVideoRewardText",
+        "value": "Платформа не\nпредоставила видео"
+    },
+    {
+        "key": "noDaylyReward",
+        "value": "Награда доступна\nодин раз в сутки"
+    },
+    {
+        "key": "friendNotFoundName",
+        "value": "Шерлок Фокс"
+    },
+    {
+        "key": "eventNotStarted",
+        "value": "Событие\nещё не началось!"
+    },
+    {
+        "key": "eventEnded",
+        "value": "Событие уже завершено"
+    },
+    {
+        "key": "authPopupMessage",
+        "value": "Для более\nудобной игры\nавторизируйтесь."
+    },
+    {
+        "key": "authPopupAuthButton",
+        "value": "Авторизоваться"
+    },
+    {
+        "key": "authPopupGuestButton",
+        "value": "Гость"
+    },
+    {
+        "key": "authPopupHeader",
+        "value": "Информация"
+    },
+    {
+        "key": "yandexGuestPlayerName",
+        "value": "Гость"
+    },
+    {
+        "key": "gfGuestPlayerName",
+        "value": "Гость"
+    },
+    {
+        "key": "helpingRequestSuccess",
+        "value": "Запрос о помощи\nуспешно отправлен."
+    },
+    {
+        "key": "levelPassedText",
+        "value": "УРОВЕНЬ ПРОЙДЕН"
+    },
+    {
+        "key": "congratulationText",
+        "value": "ПОЗДРАВЛЯЕМ"
+    },
+    {
+        "key": "furtherButtonText",
+        "value": "ДАЛЕЕ"
+    },
+    {
+        "key": "continueButtonText",
+        "value": "ПРОДОЛЖИТЬ"
+    },
+    {
+        "key": "exitButtonText",
+        "value": "ВЫЙТИ"
+    }
+]
